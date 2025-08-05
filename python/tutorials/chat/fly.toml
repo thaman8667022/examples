@@ -1,4 +1,4 @@
-app = "flet-chat"
+app = "NV hangout"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
